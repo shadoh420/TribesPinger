@@ -1,5 +1,7 @@
 # TribesPinger
 
+**DISCLAIMER: this code is horrible, leaving up as a reference only**
+
 Ping a location in game and have it visible to your teammates.
 ![image](https://github.com/user-attachments/assets/3c5748dc-6d41-49a6-b635-e38c18b54808)
 
